@@ -52,4 +52,3 @@ Dean's List: Fall 2019 through Fall 2022
 
 - Weight training
 - Intramural sports
-
