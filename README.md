@@ -29,7 +29,7 @@ I'm currently a senior at Iowa State University studying Data Science with an em
 ##### Cedar Rapids, IA
 ##### May 2017 - August 2018
 
-Greeted customers, trained new hires, and handled multiple forms of payment.
+- Greeted customers, trained new hires, and handled multiple forms of payment.
 
 ## Education
 
